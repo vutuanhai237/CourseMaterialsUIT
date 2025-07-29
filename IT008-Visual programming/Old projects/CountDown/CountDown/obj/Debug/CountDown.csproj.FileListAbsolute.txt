@@ -1,0 +1,20 @@
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Document\Visual Studio\CountDown\CountDown\obj\Debug\CountDown.csprojAssemblyReference.cache
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Document\Visual Studio\CountDown\CountDown\obj\Debug\CountDown.Form1.resources
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Document\Visual Studio\CountDown\CountDown\obj\Debug\CountDown.Properties.Resources.resources
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Document\Visual Studio\CountDown\CountDown\obj\Debug\CountDown.csproj.GenerateResource.cache
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Document\Visual Studio\CountDown\CountDown\obj\Debug\CountDown.csproj.CoreCompileInputs.cache
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Document\Visual Studio\CountDown\CountDown\bin\Debug\CountDown.exe.config
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Document\Visual Studio\CountDown\CountDown\bin\Debug\CountDown.exe
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Document\Visual Studio\CountDown\CountDown\bin\Debug\CountDown.pdb
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Document\Visual Studio\CountDown\CountDown\obj\Debug\CountDown.exe
+C:\Users\haime\OneDrive - Trường ĐH CNTT - University of Information Technology\Document\Visual Studio\CountDown\CountDown\obj\Debug\CountDown.pdb
+\\Mac\Home\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\CountDown\CountDown\bin\Debug\CountDown.exe.config
+\\Mac\Home\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\CountDown\CountDown\bin\Debug\CountDown.exe
+\\Mac\Home\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\CountDown\CountDown\bin\Debug\CountDown.pdb
+\\Mac\Home\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\CountDown\CountDown\obj\Debug\CountDown.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\CountDown\CountDown\obj\Debug\CountDown.Form1.resources
+\\Mac\Home\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\CountDown\CountDown\obj\Debug\CountDown.Properties.Resources.resources
+\\Mac\Home\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\CountDown\CountDown\obj\Debug\CountDown.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\CountDown\CountDown\obj\Debug\CountDown.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\CountDown\CountDown\obj\Debug\CountDown.exe
+\\Mac\Home\Desktop\Quan trọng\CourseMaterials\IT008-Visual programming\Old projects\CountDown\CountDown\obj\Debug\CountDown.pdb
