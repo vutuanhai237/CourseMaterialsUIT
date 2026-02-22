@@ -37,4 +37,11 @@ Students who are in my class can get slides here!
 - [x] SE357 - Requirement Engineering (RE)
 - [x] SE113 - Software Testing (ST)
 
+### In semester 1 / 2025 - 2026:
+- [x] OOP
+
+### In semester 2 / 2025 - 2026:
+- [x] OOP
+- [x] SE102- Game dev
+
 Give me a star if you feel good when using it :)
