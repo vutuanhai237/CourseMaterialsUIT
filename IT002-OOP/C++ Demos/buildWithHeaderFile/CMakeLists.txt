@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(MyApp)
+set(CMAKE_CXX_STANDARD 20)
+include_directories(include)
+file(GLOB SOURCE_FILES src/*.cpp)
+add_executable(MyApp ${SOURCE_FILES})
