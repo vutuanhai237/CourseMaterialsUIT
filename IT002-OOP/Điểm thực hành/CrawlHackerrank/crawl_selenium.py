@@ -21,6 +21,8 @@ def crawl_score(class_name, join_class, sub_class, lab, contest_name):
         print(url)
         driver = webdriver.Chrome()
         driver.get(url)
+        
+        
         table = driver.find_element(by=By.XPATH, value = '//*[@id="leaders"]')
         data = [item.text for item in table.find_elements(by = By.XPATH, value = '//*[@class="leaderboard-list-view"]')]
         if len(data) == 0:
@@ -43,9 +45,9 @@ def crawl_score(class_name, join_class, sub_class, lab, contest_name):
     driver.quit()
     df.to_excel('../' + class_name + '/' + sub_class + '.xlsx', index=False)
 
-class_name = 'it002n24'
+class_name = 'it002q216'
 
-for class_name in ['it002n211', 'it002n212']:
+for class_name in ['it002q216']:
     for join_class in [1,2]:
         for lab in [1,2,3,4,5]:
             sub_class = class_name + str(join_class)
