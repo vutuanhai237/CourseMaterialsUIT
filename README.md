@@ -44,4 +44,9 @@ Students who are in my class can get slides here!
 - [x] OOP
 - [x] SE102- Game dev
 
+### In semester 1 / 2026 - 2027:
+- [x] SE366 - Quantum computing
+- [x] MM010 - Linear algebra for multi-media
+- [x] IT001 - Introduction to programming
+
 Give me a star if you feel good when using it :)
